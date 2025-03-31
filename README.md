@@ -42,15 +42,11 @@
 
    <!-- TODO: Add last video link -->
  
-- :seedling: I’m currently learning about **C# and Python.**
+- :seedling: I’m currently learning about **C#, Java and Python.**
 - :computer: Interested in continuing programming.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like anime
-
-<h3 align="center"><b>Languages:</h3>
-    
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ----
 
