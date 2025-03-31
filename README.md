@@ -48,8 +48,6 @@
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like anime.
 
-
-
 ----
 
 <p align="center">
