@@ -46,7 +46,9 @@
 - :computer: Interested in continuing programming.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I like anime
+- ⚡ Fun fact: I like anime.
+
+
 
 ----
 
