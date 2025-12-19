@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
@@ -30,23 +30,34 @@
 
 <h1 align="center"> Welcome! I'm Calu 🌻<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'></a></h2>
+<a href="https://github.com/UjwalKandi"><img align='left' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'></a></h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Systems+Engineering+Student+<3"/>
-
-
-<p align="center">
-  <img align="right" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="170" />
-
- <p/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Systems+Engineering+Student"/> <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
    <!-- TODO: Add last video link -->
  
-- :seedling: I’m currently learning about **C#, Java and Python.**
-- :computer: Interested in continuing programming.
-- :speech_balloon: Ask me about anything.
+- 🌱 Currently learning through academic and personal projects.
+- 💻 Interested in software development and data analysis.
+- 🤝 Open to teamwork and continuous learning.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like anime.
+
+<br>
+<h2 align="center">Languages and Tools :man_technologist:</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="55"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="55"/>
+  <img src="https://skillicons.dev/icons?i=python" width="55"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="55"/>
+  <img src="https://skillicons.dev/icons?i=arduino" width="55"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="55"/>
+  <img src="https://skillicons.dev/icons?i=git" width="55"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="55"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+</p>
 
 ----
 
@@ -56,6 +67,5 @@
 </p>
 
 -----
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
