@@ -39,7 +39,6 @@
 - 🌱 Currently learning through academic and personal projects.
 - 💻 Interested in software development and data analysis.
 - 🤝 Open to teamwork and continuous learning.
-- 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like anime.
 
 <br>
